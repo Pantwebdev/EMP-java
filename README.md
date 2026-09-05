@@ -59,3 +59,4 @@ The database itself must exist. Docker Compose creates it automatically.
 8. Deploy application on AWS EC2
 9. Add Nginx
 10. Add full CI/CD pipeline
+11. Set Webhook
